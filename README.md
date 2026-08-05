@@ -1,5 +1,7 @@
-## Пробный проект полностью сделанный AI Kimi 2.5, Сайт лэндинг ветрина для бюжетерии
-Исполнений всего Html выполнено Kimi k2.5 а промт для создание сделал DeepSeek бесплатной модели.
+## Пробный проект полностью сделанный AI Kimi 2.6,
+Сайт лэндинг ветрина для бюжетерии,
+Исполнений всего Html выполнено Kimi k2.6 а промт для создание сделал DeepSeek бесплатной модели.
+
 <!--
 **SeaStonesru/SeaStonesru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
